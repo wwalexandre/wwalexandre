@@ -12,7 +12,7 @@ Farmacêutico (UFMG) que virou analista de planejamento. Passei por Sanofi, Heri
 |---|---|---|
 | [Boletim de Ruptura de Lojas](https://alexandrewang.vercel.app/projetos/boletim-ruptura.html) | Dashboard interativo: quais lojas estão sem produto e se existe estoque no CD para repor. Réplica web, com dados fictícios, de um projeto em Power BI | Power BI, DAX, JavaScript |
 | [Validador de documentos de importação](https://alexandrewang.vercel.app/projetos/validador-documentos.html) | 12 checagens automáticas entre invoice, packing list e certificados de análise, inclusive escaneados | Python, Tesseract OCR, pandas |
-| [Conferência do Caixa](https://github.com/wwalexandre/conferencia-caixa) | Lê o QR de cada pedido em PDF, acha a transação no cash report do SAP e confere o valor, tudo no navegador | JavaScript, PDF.js, Tesseract.js |
+| [Conferência do Caixa](https://wwalexandre.github.io/conferencia-caixa/) ([código](https://github.com/wwalexandre/conferencia-caixa)) | Lê o QR de cada pedido em PDF, acha a transação no cash report do SAP e confere o valor, tudo no navegador | JavaScript, PDF.js, Tesseract.js |
 | [Portfólio](https://github.com/wwalexandre/alexandrewang) | Meu site: trajetória, projetos e publicações | HTML, CSS, JavaScript |
 
 ### Publicações
